@@ -20,5 +20,7 @@ namespace TopMobil_API.Data
 
         public DbSet<Veiculo> Veiculo { get; set; }
 
+        public DbSet<CadastroCliente> CadastroCliente { get; set; }
+
     }
 }
