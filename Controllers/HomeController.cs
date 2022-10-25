@@ -12,7 +12,7 @@ namespace TopMobil_API.Controllers
             return new ContentResult
             {
                 ContentType = "text/html",
-                Content = "<h1>HAHAHAHAHHAHAHA VAI SE FUDE PARREAO</h1>"
+                Content = "<h1>API</h1>"
             };
 }
     }
